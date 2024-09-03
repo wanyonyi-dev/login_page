@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "login_page_task"
+rootProject.name = "bk"
 include(":app")
+ 
